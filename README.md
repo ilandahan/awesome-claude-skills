@@ -103,11 +103,19 @@ Skills for working with complex file formats:
   - [superpowers-skills](https://github.com/obra/superpowers-skills) - Community-editable skills repository
   - [Blog: Superpowers](https://blog.fsck.com/2025/10/09/superpowers/) - Author's overview by Jesse Vincent
   - Installation: `/plugin marketplace add obra/superpowers-marketplace`
- 
+
 - **[obra/superpowers-lab](https://github.com/obra/superpowers-lab)** - Experimental skills for `Claude Code Superpowers` (see above)
   - Uses new techniques that are still being refined and tested (i.e. skills here may change over time)
   - [Blog post about its development](https://blog.fsck.com/2025/10/23/naming-claude-plugins/)
   - Install from `superpowers-marketplace` plugin
+
+- **[ilandahan/aid-skills](https://github.com/ilandahan/aid-skills)** - Complete AI Development (AID) methodology with 21 specialized skills for phase-gated software development
+  - System skills (always running): WHY-driven decisions, phase enforcement, context tracking, learning mode
+  - Phase skills (0-5): Discovery, PRD, Tech Spec, Development, QA & Ship
+  - Development skills: System Architect, Atomic Design, TDD, Code Review, Figma Design Review
+  - Role-based personas: Product Manager, Tech Lead, Developer, QA Engineer
+  - [Website](https://theaid.ai) | [Documentation](https://theaid.ai/toolkit/skills)
+  - Installation: `/plugin marketplace add ilandahan/aid-skills`
 
 
 ### Individual Skills
